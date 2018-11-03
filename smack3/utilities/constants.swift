@@ -11,4 +11,6 @@ import Foundation
 //segues
 
 let to_login = "toLogin"
+let to_creat_account = "toCreatAccount"
+let unwind_tochanncel = "unwindtochannel"
 
